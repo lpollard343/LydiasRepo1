@@ -1,0 +1,11 @@
+---
+title: "index"
+output: html_document
+  theme: "minty"
+date: "2024-02-26"
+---
+
+Helloooo this is Lydia's page for Bio 476: Evolutionary Genomics and Bioinformatics
+
+![Puppy Running Through Grass!](/cloud/project/puppy.jpeg)
+
